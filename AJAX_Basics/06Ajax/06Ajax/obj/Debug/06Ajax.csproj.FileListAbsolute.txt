@@ -1,0 +1,6 @@
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\009_AJAX_Basics\06Ajax\06Ajax\bin\06Ajax.dll.config
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\009_AJAX_Basics\06Ajax\06Ajax\bin\06Ajax.dll
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\009_AJAX_Basics\06Ajax\06Ajax\bin\06Ajax.pdb
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\009_AJAX_Basics\06Ajax\06Ajax\obj\Debug\06Ajax.dll
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\009_AJAX_Basics\06Ajax\06Ajax\obj\Debug\06Ajax.pdb
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\009_AJAX_Basics\06Ajax\06Ajax\obj\Debug\06Ajax.csprojResolveAssemblyReference.cache

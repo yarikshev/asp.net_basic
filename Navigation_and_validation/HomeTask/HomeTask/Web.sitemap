@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Default.aspx" title="DefaultPAge"  description="">
+    
+    <siteMapNode url="~/Books/BookInformation.aspx" title="BookInformation"  description="">
+      <siteMapNode url="~/Books/AddBooks.aspx" title="AddBook"  description="" />
+        <siteMapNode url="~/Books/EditBook.aspx" title="EditBook"  description="" />
+        <siteMapNode url="~/Books/RemoveBook.aspx" title="RemoveBook"  description="" />
+    </siteMapNode>
+
+  <siteMapNode url="~/Users/UserInformation.aspx" title="UserInformation"  description="">
+    <siteMapNode url="~/Users/AddUser.aspx" title="AddUser"  description="" />
+    <siteMapNode url="~/Users/RemoveUser.aspx" title="RemoveUser"  description="" />
+  </siteMapNode>
+    
+  </siteMapNode>
+</siteMap>

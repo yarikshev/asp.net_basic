@@ -1,0 +1,12 @@
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\gitprojects\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\gitprojects\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\gitprojects\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\gitprojects\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\001_Introduction\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

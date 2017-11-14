@@ -1,0 +1,6 @@
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\008_Navigation_and_validation\HomeTask1\HomeTask1\bin\HomeTask1.dll.config
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\008_Navigation_and_validation\HomeTask1\HomeTask1\bin\HomeTask1.dll
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\008_Navigation_and_validation\HomeTask1\HomeTask1\bin\HomeTask1.pdb
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\008_Navigation_and_validation\HomeTask1\HomeTask1\obj\Debug\HomeTask1.csprojResolveAssemblyReference.cache
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\008_Navigation_and_validation\HomeTask1\HomeTask1\obj\Debug\HomeTask1.dll
+E:\diskE\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\008_Navigation_and_validation\HomeTask1\HomeTask1\obj\Debug\HomeTask1.pdb

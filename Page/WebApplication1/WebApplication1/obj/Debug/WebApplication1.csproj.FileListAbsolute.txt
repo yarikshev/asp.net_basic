@@ -1,0 +1,40 @@
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\ITVDN\16 [ITVDN] ASP.NET Базовый\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\gitprojects\[ITVDN] ASP.NET Базовый\002_Page\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
