@@ -17,7 +17,9 @@ namespace WebApplication2
         protected void getResult_Click(object sender, EventArgs e)
         {
             string arr = name.Text;
-            result.Text = "Hello "+arr;
+
+            string fjfjjf = "";
+            result.Text = "Helloffgff "+arr;
         }
 
         protected void name_TextChanged(object sender, EventArgs e)
